@@ -1,0 +1,6 @@
+{
+  "name": "TrustPipeline",
+  "description": "The sales autopilot that earns trust. Autonomous multi-agent pipeline with consent guardian, confidence-based autonomy lanes, and human oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
